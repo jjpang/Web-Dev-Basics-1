@@ -1,0 +1,53 @@
+body {
+    background: linear-gradient(90deg, #0063e7, #33aeff
+    );
+    /* height: 500pt; */
+}
+
+h1 {
+    
+}
+
+#sign-in-block {
+    background-color: white;
+    margin: auto;
+    margin-top: 3%;
+    width: 350pt;
+    height: 425pt;
+    text-align: center;
+    padding: 30pt;
+    border-radius: ;
+}
+
+.form {
+    text-align: left;
+    
+}
+
+.form .form-group {
+    padding-bottom:20px;    
+}
+
+.form input[type="text"] {
+    width: 100%;
+    padding: 15px;
+    border-color: gray;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+.form label[for="checkbox"] {
+    margin-left: 10px;
+}
+
+.btn {
+    padding: 10px;
+    font-size: 9;
+    font-weight: bold;
+}
+
+.btn-fb {
+    margin-top: 10px;
+    background-color: #3b5998;
+    color: white;
+}
